@@ -1,0 +1,7 @@
+ buffer
+http://anton.shevchuk.name/php/php-for-beginners-output-buffer/
+
+mysql
+https://dev.mysql.com/doc/refman/8.0/en/getting-information.html
+
+https://itif.ru/otlichiya-myisam-innodb/
